@@ -1,0 +1,51 @@
+{
+  "tier1": {
+    "speed": 18,
+    "duration": 3.5
+  },
+  "tier2": {
+    "speed": 38,
+    "duration": 5
+  },
+  "tier3": {
+    "speed": 75,
+    "duration": 7
+  },
+  "like": {
+    "speed": 4,
+    "duration": 1.2
+  },
+  "missile": {
+    "duration": 3
+  },
+  "nuke": {
+    "duration": 4
+  },
+  "freeze": {
+    "duration": 2.8
+  },
+  "dizzy": {
+    "duration": 3.2
+  },
+  "lightning": {
+    "duration": 2.5
+  },
+  "banana": {
+    "duration": 2
+  },
+  "shield": {
+    "duration": 8
+  },
+  "triggers": {
+    "tier1_gifts": "rose, mawar, tiktok, coffee, kopi, ice_cream, es_krim, bunga",
+    "missile": "rocket, roket, bomb, bom, meteor, boxing_gloves, sarung_tinju, fireworks, kembang_api",
+    "nuke": "donut, donat, doughnut, finger_heart, hati_jari, nuke, nuklir, dynamite, tnt",
+    "freeze": "freeze, beku, ice, es, icecube, snowman, snowflake, salju",
+    "dizzy": "dizzy, pusing, star, bintang, confuse, headache",
+    "lightning": "lightning, petir, thunder, guntur, zap, magic_wand",
+    "banana": "banana, pisang, shoe, sepatu, soap, sabun",
+    "shield": "shield, perisai, heart, hati, mirror, cermin, umbrella, payung",
+    "tier2_gifts": "cap, topi, paper_crane, burung_kertas, money_gun, pistol_uang, sunglasses, kacamata, perfume, parfum, crown, mahkota",
+    "tier3_gifts": "lion, singa, universe, interstellar, whale, paus, train, kereta, falcon, elang"
+  }
+}
